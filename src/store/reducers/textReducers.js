@@ -7,7 +7,7 @@ const initialState = {
     "reactjs",
     "nodejs",
     "mongodb",
-    "gIT",
+    "git",
     "githib",
     "jquerry",
     "expressjs",
